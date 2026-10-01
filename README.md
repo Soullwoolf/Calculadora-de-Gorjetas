@@ -6,12 +6,6 @@ O projeto foi desenvolvido como parte da minha prática em **desenvolvimento web
 
 ---
 
-## 📸 Preview
-
-![Calculadora de Gorjetas].
-
----
-
 ## 🚀 Sobre o projeto
 
 A **Calculadora de Gorjetas** é uma aplicação web simples e interativa que permite informar o valor de uma conta, selecionar a porcentagem de gorjeta de acordo com a avaliação do serviço e informar entre quantas pessoas o valor será dividido.
